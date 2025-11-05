@@ -11,7 +11,7 @@ body{
 }
 @font-face {
     font-family: Overpass;
-    src: url("Overpass Font/Overpass-VariableFont_wght.ttf");
+    src: url("Overpass-VariableFont_wght.ttf");
 }
 .main-container{
     background: rgb(25, 32, 42);
@@ -294,4 +294,5 @@ body{
     }
 
 }
+
 
